@@ -5,7 +5,6 @@
     "type": "library",
     "require": {},
     "autoload": {
-        "psr-0": { "PHPUnit": "" }
-    },
-    "target-dir": "PHPUnit"
+        "psr-0": { "PHPUnit": "PHPUnit" }
+    }
 }
