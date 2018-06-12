@@ -5,6 +5,8 @@
     "type": "library",
     "require": {},
     "autoload": {
-        "psr-0": { "PHPUnit": "PHPUnit" }
+        "classmap": [
+            "PHPUnit/"
+        ]
     }
 }
