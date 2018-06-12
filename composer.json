@@ -1,0 +1,11 @@
+{
+    "name": "synoint/phpunit",
+    "description": "Old PHPUnit to work with ZF1",
+    "homepage": "https://github.com/synoint/phpunit",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-0": { "PHPUnit": "" }
+    },
+    "target-dir": "PHPUnit"
+}
