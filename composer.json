@@ -2,11 +2,5 @@
     "name": "synoint/phpunit",
     "description": "Old PHPUnit to work with ZF1",
     "homepage": "https://github.com/synoint/phpunit",
-    "type": "library",
-    "require": {},
-    "autoload": {
-        "classmap": [
-            "PHPUnit/"
-        ]
-    }
+    "type": "library"
 }
